@@ -1,5 +1,9 @@
 This is a GIT test Michael, Craig, Emmanuel
+<<<<<<< HEAD
 
 #e-em comment
 
 Hi this is an example of git push, Generation Ireland Exercise - Creating Github repositry.
+=======
+Craig Second Commit
+>>>>>>> 0db645847def6bd93e5b3c8a5426d49de95e352d
